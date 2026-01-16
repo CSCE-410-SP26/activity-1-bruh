@@ -1,0 +1,22 @@
+22
+README         2 2 2627
+cat            2 3 35400
+echo           2 4 34312
+forktest       2 5 17256
+grep           2 6 42752
+init           2 7 34776
+kill           2 8 34240
+ln             2 9 34056
+ls             2 10 41528
+mkdir          2 11 34296
+rm             2 12 34288
+sh             2 13 56120
+stressfs
+usertests
+grind
+wc
+zombie
+logstress
+forphan
+dorphan
+console   
